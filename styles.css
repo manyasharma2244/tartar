@@ -27,6 +27,7 @@
   font-family: "Pirata One";
   font-weight: 400;
   font-style: normal;
+  font-size: x-large;
 
   background: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(6px);
@@ -35,5 +36,6 @@
   padding: 20px 40px;
   border-radius: 10px;
 }
+
 
 
